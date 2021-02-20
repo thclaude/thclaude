@@ -6,10 +6,10 @@
 
 - 💬 Ask me about **JavaScript mainly**
 
-- 📫 How to reach me **me@thibaultclaude.be**
+- 📫 Reach me here **me@thibaultclaude.be**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
     <a href="https://developer.android.com" target="_blank">    
         <img src="https://flat.badgen.net/badge/icon/Android?label&icon=https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/android/android-plain.svg" alt="Android"/> 
