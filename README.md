@@ -73,6 +73,6 @@
 </p>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tclaude94&show_icons=true&theme=dark&locale=en&layout=compact" alt="tclaude94" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thclaude&show_icons=true&theme=dark&locale=en&layout=compact" alt="thclaude" />
 </p>
 
